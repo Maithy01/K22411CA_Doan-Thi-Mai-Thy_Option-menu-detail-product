@@ -108,7 +108,7 @@ public class ProductManagementActivity extends AppCompatActivity {
             return true;
         } else if (id == R.id.menu_search) {
             Toast.makeText(this, "Mở thanh tìm kiếm", Toast.LENGTH_SHORT).show();
-            // TODO: Tạo thanh tìm kiếm
+            // TODO: Tạo thanh tìm kiếm được
             return true;
         } else if (id == R.id.menu_show_all) {
             Toast.makeText(this, "", Toast.LENGTH_SHORT).show();

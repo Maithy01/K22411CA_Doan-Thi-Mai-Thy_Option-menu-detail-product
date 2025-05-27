@@ -39,7 +39,6 @@
             android:name=".MainActivity"
             android:exported="true" />
 
-        <!-- ✅ Sửa lỗi ở đây -->
         <activity
             android:name=".ProductManagementActivity"
             android:exported="true" />
